@@ -1,0 +1,13 @@
+.text-center {
+    background-color: rgb(123, 75, 253);
+}
+
+h3 {
+    text-align: center;
+    background-color: bisque;
+
+}
+
+.card-body {
+    text-align: center;
+}
